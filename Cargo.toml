@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "mini_miner",
+  "utils",
+]
+
