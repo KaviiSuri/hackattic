@@ -1,6 +1,7 @@
 [workspace]
 members = [
   "mini_miner",
+  "backup_restore",
   "utils",
 ]
 
